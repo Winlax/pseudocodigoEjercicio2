@@ -1,0 +1,13 @@
+Algoritmo Ejercicio2
+	
+	Escribir "Ingrese un numero"
+	Leer N
+	
+	Hacer
+		
+		Escribir N
+		N = N - 1
+		
+	Hasta Que N = 0
+	
+FinAlgoritmo
